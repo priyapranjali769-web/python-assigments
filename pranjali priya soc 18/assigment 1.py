@@ -23,7 +23,3 @@ print("list after sorting in descending order :", list)
 #Reverse list elements
 list.reverse()
 print("list after reversing elements :", list)
-print("list after sorting in descending order :", list)
-#Reverse list elements
-list.reverse()
-print("list after reversing elements :",list)
